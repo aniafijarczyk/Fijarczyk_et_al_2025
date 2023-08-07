@@ -1,0 +1,9 @@
+3
+2
+ScaleTrees
+RevJump uniform 0 100
+BurnIn 1000000
+Iterations 21000000
+Sample 1000
+Stones 250 10000
+Run
