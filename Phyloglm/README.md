@@ -1,6 +1,6 @@
-## R script for running logistic regression model with phyloglm from phylolm package for 13 traits. The slope describes strenght of assocuation between pathogenicity/non-pathogenicity and the value of a trait.
+## R script for running logistic regression model with phyloglm from phylolm package. The slope describes strength of association between pathogenicity/non-pathogenicity and the value of a trait.
 
-This code run logistic regression for 13 genomic features with 10 repetitions of subsampling. Subsampling is explained in "bayesTraits_discrete_models".
+This code runs logistic regression for 13 genomic features with 10 repetitions of subsampling. Subsampling is explained in "bayesTraits_discrete_models".
 
 
 **run_phyloglm.R**
