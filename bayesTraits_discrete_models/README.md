@@ -43,3 +43,10 @@ Script for writing runner script to launch models with independent, dependent an
 
 Script for writing runner script to launch models with equal transition rates on computecanada.
 
+**getBayesFactor.py**
+
+Script to retrieve log likelihoods from different models and calculate log bayes factors for various model comparisons.
+
+**getTransitions.py**
+
+Script to retrieve a table woth transition rates, plot transition rates, frequency of model strings, and counts of gains and losses.
