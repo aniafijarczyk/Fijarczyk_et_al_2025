@@ -49,4 +49,4 @@ Script to retrieve log likelihoods from different models and calculate log bayes
 
 **getTransitions.py**
 
-Script to retrieve a table woth transition rates, plot transition rates, frequency of model strings, and counts of gains and losses.
+Script to retrieve a table with transition rates, plot transition rates, frequency of model strings, and counts of gains and losses.
