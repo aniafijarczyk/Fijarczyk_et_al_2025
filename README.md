@@ -1,5 +1,6 @@
-# Fijarczyk_et_al_2023
-Code for the manuscript Fijarczyk_et_al_2023 on Sordariomycetes genomes  
+# Fijarczyk_et_al_2025
+Code for the manuscript on Sordariomycetes genomes  
 
-[bioRxiv](https://doi.org/10.1101/2022.08.24.505148)
+[eLife](https://elifesciences.org/reviewed-preprints/104975)
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.24.505148v5)
 
