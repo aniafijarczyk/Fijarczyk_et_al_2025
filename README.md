@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/527673810.svg)](https://doi.org/10.5281/zenodo.17765751)
+
 # Fijarczyk_et_al_2025
 Code for the manuscript on Sordariomycetes genomes  
 
